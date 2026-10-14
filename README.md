@@ -1,6 +1,3 @@
----
-
-
 ## **Antigravity 학습 목표**
   * **모듈 1:** IDE, CLI, SDK 및 Managed Agent 서피스 전반에 걸친 통합 플랫폼으로서의 Antigravity 설명함
   * **모듈 2:** 컨텍스트 인식, 멀티 파일 에이전트 워크플로우 설계 및 Command Center 마스터함
