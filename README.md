@@ -1,7 +1,8 @@
 # Antigravity for Enterprise — 핵심 내용 정리
 
 > Google Cloud의 에이전트 우선(Agent-First) 개발 플랫폼인 **Antigravity**를 엔터프라이즈 환경에 도입하고 확장하기 위한 7개 모듈 학습 내용을 요약·정리한 문서임.
-> - 읽기 편하도록 GitHub 내용을 웹페이지로 정리 Link: [Antigravity for Enterprise](https://cdmstr.kr/course/view.php?id=19)
+> 
+> - 읽기 편하도록 GitHub 내용을 웹페이지로 정리(2026-10-21 추가): [Antigravity for Enterprise](https://cdmstr.kr/course/view.php?id=19) 
 > - 게스트 공개 콘텐츠로 인증창에서 가입 없이 '손님으로 접속'
 
 ## 목차
